@@ -31,3 +31,5 @@ The Haar Cascade classifier that is built into OpenCV has already been trained o
 <h1>Installing OpenCV for Python</h1>
 <p>To install the OpenCV library, simply open your command prompt or terminal window and run the following command</p>
 <h3>pip install opencv-python</h3>
+<h2>For Python3</h2>
+<h3>pip3 install opencv-python to install OpenCV</h3>
